@@ -6,8 +6,8 @@ const Navbar = () => {
 
     return (
         <div className='w-full '>
-            <nav className="flex items-center center bg-black p-6 justify-center">
-                <div className=" text-white mr-10 ">
+            <nav className="flex items-center center dark-cone p-6 justify-center">
+                <div className=" text-gray-100 mr-10 ">
                     <span className="font-extrabold text-xl tracking-tight text-yellow-300 place-content-center ">My website</span>
                 </div>
                 <div className="block lg:hidden place-content-center">
